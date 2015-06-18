@@ -1,0 +1,11 @@
+<root>
+    <rootPath>/Users/victor/work/github</rootPath>
+    <allowExts>
+        <ext name="css" val="text/css"></ext>
+        <ext name="html" val="text/html"></ext>
+        <ext name="htm" val="text/html"></ext>
+        <ext name="txt" val="txt/plain"></ext>
+        <ext name="xsl" val="text/xml"></ext>
+        <ext name="js" val="application/x-javascript"></ext>
+    </allowExts>
+</root>
