@@ -2,7 +2,7 @@
  * Created by victor on 15/6/18.
  */
 
-var base = '/Users/victor/work/github'
+var base = '/Users/victor/work/github/'
 var http = require('http');
 var fs = require('fs');
 var ctTypes ={
